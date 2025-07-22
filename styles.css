@@ -1,0 +1,42 @@
+/* css styles */
+body{
+    background-color: lightblue;
+    color:black
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.photo .headshot {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  border: 3px solid #b45f06;
+  object-fit: cover;
+}
+
+.intro {
+  text-align: right;
+  flex-grow: 1;
+}
+
+.intro .name {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.intro .email {
+  font-weight: bold;
+  margin: 0.2rem 0;
+}
+
+.intro .tagline {
+  font-style: italic;
+  color: #444;
+  margin: 0;
+}
