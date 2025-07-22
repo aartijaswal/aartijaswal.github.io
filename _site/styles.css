@@ -1,7 +1,7 @@
 /* css styles */
 body{
-    background-color: lightblue;
-    color:black
+    background-color:rgb(226 221 213);
+    color:black;
 }
 
 .header-section {
@@ -12,11 +12,13 @@ body{
 }
 
 .photo .headshot {
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-  border: 3px solid #b45f06;
-  object-fit: cover;
+  width: 145px;
+    height: 149px;
+    border-radius: 50%;
+    border: 3px solid #605141;
+    object-fit: contain;
+    padding: 5px;
+    background: #ffffff;
 }
 
 .intro {
@@ -39,4 +41,8 @@ body{
   font-style: italic;
   color: #444;
   margin: 0;
+}
+
+h2, .h2{
+  border-bottom: 1px solid #ffffff; !important
 }

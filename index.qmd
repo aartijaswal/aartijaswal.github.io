@@ -7,7 +7,7 @@
   <div class="intro">
   <p class="name">Aarti Jaswal<p>
   <p class="email">📧 aartijaswal24@gmail.com</p>
-  <P class="tagline">Passionate about AI</p>
+  <P class="tagline">Passionate about solving real-world problems with AI</p>
   </div>
 </div>
     
@@ -16,52 +16,45 @@
 I am an MBA student with a background in computer science and web development. With hands-on experience in both the tech and insurance industries, I bring strong analytical, problem-solving, and client-facing skills. I am passionate about leveraging AI and technology to drive innovation and strategic growth in business.
 
 ## Education
-
- **MBA (In Progress)** – University Canada West, Vancouver  
-
-
-**M.Sc (Computer Science)** – Guru Nanak Dev University, Amritsar, India
+- **MBA (In Progress)** – University Canada West, Vancouver, Canada
+- **M.Sc (Computer Science)** – Guru Nanak Dev University, Amritsar, India
+- **B.Sc (Information Technology)** – Punjab Technical University, Kapurthala, India
  
-
- **B.Sc (Information Technology)** – Punjab Technical University, Kapurthala, India
- 
-## Professional Experience
+## Work Experience
 
 **Insurance Broker – Experioer Financial Group, Surrey (2023–Present)**
 
-Advised clients on policy options, risk management, and coverage
+- Advised clients on insurance coverage and financial protection options
+- Managed a portfolio of individual and business clients
+- Processed new applications, renewals, and basic claims support
+- Built client trust through regular follow-ups and policy reviews
 
-Maintained a portfolio of individual and corporate clients
+**Web Developer – PJ Web Creations (2018–2022)**
+
+- Built responsive, SEO-optimized websites using HTML/CSS
+- Created visual mockups aligned with client goals
+- Provided tech support and regular project updates
+- Ensured cross-platform compatibility and performance
 
 **Web Developer – Nugen Computers & IT Services (2012-2014, 2016–2018)**
 
-Designed and maintained client websites
-
-Improved site performance and mobile responsiveness
-
-**Web Developer – PJ Web Creations (2018–2023)**
-
-Built internal tools and CMS systems
-
-Collaborated with teams on front-end and back-end solutions
+- Improved site performance and mobile responsiveness
+- Delivered and maintained front-end builds
+- Designed responsive layouts using HTML/CSS
+- Offered tech support during client onboarding
 
 ## Skills
 
-Web Development: HTML, CSS, JavaScript
-
-Data Analysis: MS-Excel
-
-Client Relationship Management
-
-Leadership & Team Coordination
+- Web Development: HTML, CSS, JavaScript
+- Data Analysis: MS-Excel
+- Client Relationship Management
+- Leadership & Team Coordination
 
 ## Completed Projects
  
-[Sri Sai Pet World](https://www.srisaipetworld.in)  
-
-[Ace Dog Collars](https://acedogcollars.com)
-
-[supplements 24*7](https://supps247.com.au)
+- [Sri Sai Pet World](https://www.srisaipetworld.in)  
+- [Ace Dog Collars](https://acedogcollars.com)
+- [supplements 24*7](https://supps247.com.au)
 
 ## Career Goals
 

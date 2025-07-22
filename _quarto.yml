@@ -16,6 +16,5 @@ format:
       - brand
     css: styles.css
     toc: false
-
-
+    anchor-sections: false
 
