@@ -1,0 +1,68 @@
+<div class="header-section">
+
+  <div class="photo">
+   <img src="headshot.jpg" class="headshot">
+  </div>
+
+  <div class="intro">
+  <p class="name">Aarti Jaswal<p>
+  <p class="email">📧 aartijaswal24@gmail.com</p>
+  <P class="tagline">Passionate about AI</p>
+  </div>
+</div>
+    
+
+## Professional Summary
+I am an MBA student with a background in computer science and web development. With hands-on experience in both the tech and insurance industries, I bring strong analytical, problem-solving, and client-facing skills. I am passionate about leveraging AI and technology to drive innovation and strategic growth in business.
+
+## Education
+
+ **MBA (In Progress)** – University Canada West, Vancouver  
+
+
+**M.Sc (Computer Science)** – Guru Nanak Dev University, Amritsar, India
+ 
+
+ **B.Sc (Information Technology)** – Punjab Technical University, Kapurthala, India
+ 
+## Professional Experience
+
+**Insurance Broker – Experioer Financial Group, Surrey (2023–Present)**
+
+Advised clients on policy options, risk management, and coverage
+
+Maintained a portfolio of individual and corporate clients
+
+**Web Developer – Nugen Computers & IT Services (2012-2014, 2016–2018)**
+
+Designed and maintained client websites
+
+Improved site performance and mobile responsiveness
+
+**Web Developer – PJ Web Creations (2018–2023)**
+
+Built internal tools and CMS systems
+
+Collaborated with teams on front-end and back-end solutions
+
+## Skills
+
+Web Development: HTML, CSS, JavaScript
+
+Data Analysis: MS-Excel
+
+Client Relationship Management
+
+Leadership & Team Coordination
+
+## Completed Projects
+ 
+[Sri Sai Pet World](https://www.srisaipetworld.in)  
+
+[Ace Dog Collars](https://acedogcollars.com)
+
+[supplements 24*7](https://supps247.com.au)
+
+## Career Goals
+
+I aim to lead strategic initiatives in the IT sector that harness emerging technologies—such as artificial intelligence and automation—to solve complex business challenges, enhance operational efficiency, and drive sustainable innovation.
