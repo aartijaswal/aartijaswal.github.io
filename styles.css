@@ -42,3 +42,7 @@ body{
   color: #444;
   margin: 0;
 }
+
+h2, .h2{
+  border-bottom: 1px solid #ffffff; !important
+}
