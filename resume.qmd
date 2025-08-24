@@ -1,0 +1,14 @@
+---
+title: "Resume"
+page-layout: article
+---
+
+# My Resume
+
+Thank you for visiting my professional portfolio.
+
+You can download a copy of my updated resume here:
+
+[⬇️ Download Resume (PDF)](files/resume.pdf){.btn}
+
+

@@ -1,0 +1,33 @@
+---
+title: "Skills"
+page-layout: article
+---
+
+These skills have been developed through both academic work and hands-on experience—ranging from tech and business tools to real-world leadership and community engagement.
+
+#  Professional Skills
+
+### 🖥 Web Development
+- HTML, CSS, JavaScript (Basic to Intermediate)
+- Familiar with building simple static websites and Quarto pages
+
+### 📊 Data Analysis
+- Proficient in Microsoft Excel for:
+  - Data cleaning, charting, and pivot tables
+  - Forecasting, MAPE, and other basic analytics
+
+### 🤝 Client Relationship Management
+- Experienced in understanding customer needs and building trust
+- Applied in insurance advisory and yoga instruction settings
+
+### 👥 Leadership, Team Coordination & Volunteering
+
+- Coordinated academic group projects
+- Volunteered during the COVID-19 pandemic by assisting at vaccination centers with organizing queues, helping people register, and maintaining safety protocols
+- Led a flood relief team with an NGO to distribute food, water, and essentials to flood victims in rural communities
+- Developed resilience, decision-making under pressure, and empathy in crisis situations
+
+---
+
+
+

@@ -1,48 +1,15 @@
-/* css styles */
-body{
-    background-color:rgb(226 221 213);
-    color:black;
+/* Force background and text color for the entire page */
+body, .page-inner {
+  background-color: black !important; /* Light beige */
+  color: whitesmoke !important;            /* Dark text */
 }
 
-.header-section {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 2rem;
+/* Optional: Adjust navbar color if needed */
+.navbar {
+  background-color: #003366 !important; /* Dark navy */
 }
 
-.photo .headshot {
-  width: 145px;
-    height: 149px;
-    border-radius: 50%;
-    border: 3px solid #605141;
-    object-fit: contain;
-    padding: 5px;
-    background: #ffffff;
+.navbar a {
+  color: white !important;
 }
 
-.intro {
-  text-align: right;
-  flex-grow: 1;
-}
-
-.intro .name {
-  font-size: 1.8rem;
-  font-weight: bold;
-  margin: 0;
-}
-
-.intro .email {
-  font-weight: bold;
-  margin: 0.2rem 0;
-}
-
-.intro .tagline {
-  font-style: italic;
-  color: #444;
-  margin: 0;
-}
-
-h2, .h2{
-  border-bottom: 1px solid #ffffff; !important
-}
