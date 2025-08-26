@@ -1,13 +1,22 @@
 ---
 title: ""
-page-layout: article
+format:
+  html:
+    css: styles.css
+    toc: false
 ---
 
+<div class="resume-section">
 
-Thank you for visiting my professional portfolio.
+### Thank you for visiting my professional portfolio.
 
 You can download a copy of my updated resume here:
 
-[⬇️ Download Resume (PDF)](files/resume.pdf){.btn}
+<a href="files/resume.pdf" class="resume-button" download>
+  ⬇️ Download Resume (PDF)
+</a>
+
+</div>
+
 
 

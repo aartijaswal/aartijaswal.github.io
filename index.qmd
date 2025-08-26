@@ -1,27 +1,27 @@
 ---
-title: "Welcome to my Portfolio"
-page-layout: article
+title: "Welcome to my portfolio"
 format:
   html:
     theme: cosmo
-    navbar:
-      right:
-        - href: index.qmd
-          text: Home
-        - href: resume.qmd
-          text: Resume
-        - href: projects.qmd
-          text: Projects
-        - href: skills.qmd
-          text: Skills
-        - href: contact.qmd
-          text: Contact
+    css: styles.css
+    page-layout: full
 ---
 
-<div style="text-align:center; max-width:600px; margin: 40px auto;">
-  ![](images/headshot.jpg){width=150px style="border-radius:50%;"}
+::: {.intro-wrapper}
 
+<div class="intro-left">
+  <img src="images/headshot.jpg" class="profile-img" alt="Profile Image">
+</div>
 
-# Hello, I'm Aarti Jaswal 
+<div class="intro-right">
+  <h2>I am Aarti Jaswal</h2>
+  <h2>Passionate about AI and Machine Learning</h2>
+  </div>
 
-I am an MBA student with a background in computer science and web development. With hands-on experience in both the tech and insurance industries, I bring strong analytical, problem-solving, and client-facing skills. I am passionate about leveraging AI and technology to drive innovation and strategic growth in business.
+  <div class= "bottom-right">
+  <p>
+     I am an MBA student with a background in computer science and web development. With hands-on experience in both the tech and insurance industries, I bring strong analytical, problem-solving, and client-facing skills. I am passionate about leveraging AI and technology to drive innovation and strategic growth in business.
+  </p>
+</div>
+
+:::

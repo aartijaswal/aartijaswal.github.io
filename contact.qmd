@@ -1,21 +1,35 @@
 ---
 title: ""
-page-layout: article
+format:
+  html:
+    css: styles.css
+    page-layout: full
 ---
 
-# 📬 Get in Touch
+<div class="contact-header">
 
-Thank you for visiting my portfolio. I would be happy to connect!
+  **Thank you for visiting my portfolio. I really hope you have enjoyed looking at my work!**
 
----
+  **I am currently available for freelance work- feel free to contact me using the form below. I usually respond within 24 hours.**
+</div>
 
-## 📧 Email
+<div class="contact-container">
 
-Feel free to reach out for collaborations, project inquiries, or professional opportunities.
+  <div class="contact-form">
+ 
+ **Get in Touch with Me**
 
-**Email:** [aartijaswal24@gmail.com](aartijaswal24@gmail.com)
+  **Average response time is within 24 hours.**
 
----
+  <!-- Replace this with your own form embed -->
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScndWxv8OkpIMcgzxw4AROCKQhw6iCGkTTHDICSR_anlX_Y0g/viewform?usp=dialog"
+          width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  </div>
 
+  <div class="contact-info">
+   📧 Email  
+  [aartijaswal24@gmail.com](mailto:aartijaswal24@gmail.com)
 
+  </div>
 
+</div>

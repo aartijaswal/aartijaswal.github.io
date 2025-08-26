@@ -9,30 +9,30 @@ These are real-world projects that I have contributed to as part of my professio
 
 ---
 
-## 🐾 Sri Sai Pet World
+## Sri Sai Pet World
 
 Developed a business concept for a full-service pet store offering grooming, food, accessories, and healthcare items.  
 Focused on branding, marketing strategy, and customer engagement.
 
-[Visit Project](#) <https://www.srisaipetworld.in/>
+[Visit Project](https://www.srisaipetworld.in/)
 
 ---
 
-## 🦴 Ace Dog Collars
+## Ace Dog Collars
 
 Created a niche product brand for high-quality, customizable dog collars using leather and eco-friendly materials.  
 Explored positioning strategies and competitive analysis.
 
-[Visit Project](#) <https://acedogcollars.com/>
+[Visit Project](https://acedogcollars.com/)
 
 ---
 
-## 💊 Supplements 24*7
+##  Supps 24*7
 
 Business case for a 24/7 online nutritional supplement platform targeting gym-goers, athletes, and wellness-conscious users.  
 Included PESTEL and SWOT analyses.
 
-[Visit Project](#) <https://supps247.com.au/>
+[Visit Project](https://supps247.com.au/)
 
 ---
 

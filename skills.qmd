@@ -1,33 +1,52 @@
 ---
 title: ""
-page-layout: article
+format:
+  html:
+    css: styles.css
+    toc: false
 ---
 
-These skills have been developed through both academic work and hands-on experience—ranging from tech and business tools to real-world leadership and community engagement.
+## Professional Skills
 
-#  Professional Skills
+These skills have been developed through academic work and real-world experience — from building digital tools to leading volunteer initiatives.
 
-### 🖥 Web Development
-- HTML, CSS, JavaScript 
-- Familiar with building simple static websites and Quarto pages
+<div class="card-grid">
 
-### 📊 Data Analysis
-- Proficient in Microsoft Excel for:
-  - Data cleaning, charting, and pivot tables
-  - Forecasting, MAPE, and other basic analytics
+<!-- Web Dev -->
+<div class="skill-card">
+  <h3>💻 Web Development</h3>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Built static websites using Quarto and Markdown</li>
+  </ul>
+</div>
 
-### 🤝 Client Relationship Management
-- Experienced in understanding customer needs and building trust
-- Applied in insurance advisory and yoga instruction settings
+<!-- Data Analysis -->
+<div class="skill-card">
+  <h3>📊 Data Analysis</h3>
+  <ul>
+    <li>Microsoft Excel: pivot tables, forecasting, MAPE</li>
+    <li>Data cleaning and basic analytics</li>
+  </ul>
+</div>
 
-### 👥 Leadership, Team Coordination & Volunteering
+<!-- Client Management -->
+<div class="skill-card">
+  <h3>🤝 Client Relationship Management</h3>
+  <ul>
+    <li>Built trust with clients in insurance and wellness settings</li>
+    <li>Adapted communication for diverse audiences</li>
+  </ul>
+</div>
 
-- Coordinated academic group projects
-- Volunteered during the COVID-19 pandemic by assisting at vaccination centers with organizing queues, helping people register, and maintaining safety protocols
-- Led a flood relief team with an NGO to distribute food, water, and essentials to flood victims in rural communities
-- Developed resilience, decision-making under pressure, and empathy in crisis situations
+<!-- Leadership -->
+<div class="skill-card">
+  <h3>👥 Leadership & Volunteering</h3>
+  <ul>
+    <li>Led NGO relief & COVID-19 vaccination support teams</li>
+    <li>Coordinated academic group projects</li>
+    <li>Built resilience & crisis decision-making skills</li>
+  </ul>
+</div>
 
----
-
-
-
+</div>
