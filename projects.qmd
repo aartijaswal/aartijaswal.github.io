@@ -9,30 +9,28 @@ These are real-world projects that I have contributed to as part of my professio
 
 ---
 
-## Sri Sai Pet World
+::: {.project-card-container}
 
-Developed a business concept for a full-service pet store offering grooming, food, accessories, and healthcare items.  
-Focused on branding, marketing strategy, and customer engagement.
+::: {.project-card}
+### Sri Sai Pet World  
+Designed and developed the official website for a full-service pet store offering grooming, pet food, accessories, and healthcare essentials.  
+Led branding, UX/UI design, and implemented responsive features to enhance user engagement and visibility.  
+[Explore Website](https://www.srisaipetworld.in/)
+:::
 
-[Visit Project](https://www.srisaipetworld.in/)
+::: {.project-card}
+### Ace Dog Collars  
+Created a modern, mobile-friendly website for a niche pet accessories brand focused on high-quality, customizable leather dog collars.  
+Handled full-stack development and implemented branding and SEO strategies for competitive positioning.  
+[Explore Website](https://acedogcollars.com/)
+:::
 
----
+::: {.project-card}
+### Supps 24×7  
+Developed a 24/7 online platform for nutritional supplements targeting gym-goers and wellness enthusiasts.  
+Built e-commerce functionality and integrated dynamic content based on PESTEL and SWOT business analysis.  
+[Explore Website](https://supps247.com.au/)
+:::
 
-## Ace Dog Collars
-
-Created a niche product brand for high-quality, customizable dog collars using leather and eco-friendly materials.  
-Explored positioning strategies and competitive analysis.
-
-[Visit Project](https://acedogcollars.com/)
-
----
-
-##  Supps 24*7
-
-Business case for a 24/7 online nutritional supplement platform targeting gym-goers, athletes, and wellness-conscious users.  
-Included PESTEL and SWOT analyses.
-
-[Visit Project](https://supps247.com.au/)
-
----
+:::
 
