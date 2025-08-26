@@ -1,34 +1,14 @@
 /* Force background and text color for the entire page */
 body, .page-inner {
-  background-color: rgb(242, 242, 242) !important; /* Light beige */
-  color: rgb(30, 30, 30) !important;            /* Dark text */
+  background-color: black !important; /* Light beige */
+  color: whitesmoke !important;            /* Dark text */
 }
 
 /* Optional: Adjust navbar color if needed */
 .navbar {
-  background-color: #660000 !important; /* Dark navy */
+  background-color: #003366 !important; /* Dark navy */
 }
 
-.navbar a:link {
+.navbar a {
   color: white !important;
-  font-size: 20px !important;
-  font-weight: bold;
-  text-shadow: #000000 3px 3px 3px;
-}
-.navbar a:hover {
-  font-weight: bold;
-  text-shadow: #ffffff 0px 0px 9px;
-}
-.navbar a:visited {
-  color:white;
-}
-.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
-  color:white !important;
-  text-shadow: #ffffff 0px 0px 9px;
-}
-
-.img-fluid {
-  box-shadow: 0px 0px 15px rgba(192, 192, 192, 0.9);
-  width: 190px !important;
-  background: #fff;
 }
