@@ -1,15 +1,190 @@
 /* Force background and text color for the entire page */
 body, .page-inner {
-  background-color: black !important; /* Light beige */
-  color: whitesmoke !important;            /* Dark text */
+  background-color: rgb(228, 228, 228) !important; /* Light beige */
+  color: rgb(67, 67, 67) !important;            /* Dark text */
 }
 
 /* Optional: Adjust navbar color if needed */
 .navbar {
-  background-color: #003366 !important; /* Dark navy */
+  background-color: #cd0700 !important; /* Dark navy */
 }
 
 .navbar a {
   color: white !important;
+  text-shadow: 1px 1px 2px #000000;
+}
+.intro-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 2rem;
+  padding: 3rem;
+  flex-wrap: wrap;
+}
+
+.intro-left {
+  flex: 0 0 180px;
+  text-align: center;
+}
+
+.profile-img {
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+.intro-right {
+  flex: 1;
+  max-width: 600px;
+}
+
+.intro-right h1 {
+  font-size: 2rem;
+  margin-bottom: 0.4rem;
+  color: #333;
+}
+
+.intro-right h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  color: #555;
+}
+
+.bottom-right {
+  margin-top: auto;
+}
+
+.bottom-right p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #444;
+  margin: 0;
+}
+.resume-section {
+  text-align: center;
+  margin-top: 4rem;
+  padding: 2rem;
+}
+
+.resume-section h3,
+.resume-section p {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.resume-button {
+  background-color: #d32f2f;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 1.5rem;
+}
+
+.resume-button:hover {
+  background-color: #b71c1c;
+}
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+  padding: 1rem 0;
+}
+
+.skill-card {
+  background-color: #ffffff;
+  border: 1px solid red;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+  transition: transform 0.2s ease;
+}
+
+.skill-card:hover {
+  transform: scale(1.02);
+}
+
+.skill-card h3 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: #222;
+}
+
+.skill-card ul {
+  padding-left: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.skill-card li {
+  margin-bottom: 0.6rem;
+  font-size: 0.95rem;
+  color: #444;
+}
+.contact-header {
+  max-width: 900px;
+  margin: 3rem auto 2rem auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.contact-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.contact-header p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #555;
+}
+
+/* Two-column layout */
+.contact-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 0 auto 4rem auto;
+  padding: 0 1rem;
+}
+
+/* Left side (form) */
+.contact-form h3 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  color: #000;
+}
+
+.contact-form p {
+  color: #444;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Right side (info) */
+.contact-info h3 {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+  color: #000;
+}
+
+.contact-info a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .contact-container {
+    grid-template-columns: 1fr;
+  }
 }
 
