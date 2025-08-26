@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: ""
 page-layout: article
 ---
 
@@ -18,6 +18,4 @@ Feel free to reach out for collaborations, project inquiries, or professional op
 ---
 
 
-
-I
 

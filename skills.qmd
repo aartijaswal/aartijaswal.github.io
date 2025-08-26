@@ -1,5 +1,5 @@
 ---
-title: "Skills"
+title: ""
 page-layout: article
 ---
 
@@ -8,7 +8,7 @@ These skills have been developed through both academic work and hands-on experie
 #  Professional Skills
 
 ### 🖥 Web Development
-- HTML, CSS, JavaScript (Basic to Intermediate)
+- HTML, CSS, JavaScript 
 - Familiar with building simple static websites and Quarto pages
 
 ### 📊 Data Analysis
