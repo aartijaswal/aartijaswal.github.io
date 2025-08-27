@@ -2,17 +2,32 @@
 body, .page-inner {
   background-color: rgb(228, 228, 228) !important; /* Light beige */
   color: rgb(67, 67, 67) !important;            /* Dark text */
+  text-shadow: 1px 1px 1px #ffffff;
 }
 
 /* Optional: Adjust navbar color if needed */
 .navbar {
-  background-color: #cd0700 !important; /* Dark navy */
+  background-color: #b20600 !important; /* Dark navy */
 }
 
-.navbar a {
+.navbar a:link {
   color: white !important;
   text-shadow: 1px 1px 2px #000000;
+  font-size: 18px;
+  font-weight: bold;
 }
+.navbar a:hover {
+  text-shadow: 0px 0px 10px #ffffff;
+}
+.navbar a:visited {
+  color: #ffffff;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color:#ffffff;
+  text-shadow: 0px 0px 10px #ffffff;
+}
+
 .intro-wrapper {
   display: flex;
   align-items: flex-start;
@@ -23,16 +38,19 @@ body, .page-inner {
 }
 
 .intro-left {
-  flex: 0 0 180px;
+  flex: 0 0 80%;
   text-align: center;
 }
 
-.profile-img {
-  height: 200px;
-  border-radius: 50%;
-  object-fit: cover;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+.img-fluid {
+  margin-top: 20px;
+  width: 200px;
+  border-radius: 100%;
+  padding: 3px 12px;
+  background: #ffffff;
+  box-shadow: 0px 3px 10px rgba(165, 165, 165, 0.9);
 }
+
 
 .intro-right {
   flex: 1;
@@ -40,7 +58,7 @@ body, .page-inner {
 }
 
 .intro-right h1 {
-  font-size: 2rem;
+  font-size: 1.65rem;
   margin-bottom: 0.4rem;
   color: #333;
 }
@@ -76,6 +94,7 @@ body, .page-inner {
 .resume-button {
   background-color: #d32f2f;
   color: white;
+  text-shadow: 1px 1px 1px #222222 !important;
   font-weight: bold;
   padding: 10px 20px;
   border-radius: 6px;
@@ -105,7 +124,8 @@ body, .page-inner {
 }
 
 .skill-card:hover {
-  transform: scale(1.02);
+  transform: scale(1.05);
+  box-shadow: 5px 10px 10px #acacac;
 }
 
 .skill-card h3 {
@@ -132,43 +152,20 @@ body, .page-inner {
 }
 
 .contact-header h1 {
-  font-size: 2rem;
+  font-size: 1.65rem;
   margin-bottom: 0.5rem;
-}
-
-.contact-header p {
-  font-size: 1rem;
-  margin-bottom: 1rem;
-  color: #555;
-}
-
-/* Two-column layout */
-.contact-container {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 2rem;
-  max-width: 1100px;
-  margin: 0 auto 4rem auto;
-  padding: 0 1rem;
-}
-
-/* Left side (form) */
-.contact-form h3 {
-  font-size: 1.3rem;
-  margin-bottom: 1rem;
-  color: #000;
 }
 
 .contact-form p {
   color: #444;
   font-size: 0.95rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 /* Right side (info) */
 .contact-info h3 {
   font-size: 1.1rem;
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
   color: #000;
 }
 
@@ -189,10 +186,10 @@ body, .page-inner {
 }
 form {
   max-width: 600px;
-  margin: 2em auto;
+  
   display: flex;
   flex-direction: column;
-  gap: 1em;
+  
   font-size: 1.1em;
 }
 
@@ -204,7 +201,7 @@ input, textarea {
 }
 
 button {
-  background-color: #007BFF;
+  background-color: #970000;
   color: white;
   padding: 0.6em 1.2em;
   border: none;
@@ -250,3 +247,48 @@ button:hover {
   text-decoration: underline;
 }
 
+.nav-footer-center {
+  color: #cccccc;
+  text-shadow: 1px 1px 1px #000000 !important;
+}
+
+#box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gradient-border {
+  --borderWidth: 3px;
+  position: relative;
+  border-radius: var(--borderWidth);
+}
+.gradient-border:after {
+  content: '';
+  position: absolute;
+  top: calc(-1 * var(--borderWidth));
+  left: calc(-1 * var(--borderWidth));
+  height: calc(100% + var(--borderWidth) * 2);
+  width: calc(100% + var(--borderWidth) * 2);
+  background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+  border-radius: calc(2 * var(--borderWidth));
+  z-index: -1;
+  animation: animatedgradient 3s ease alternate infinite;
+  background-size: 300% 300%;
+}
+
+
+@keyframes animatedgradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+h1, h2 {
+  font-size: 1.65rem !important;
+}
